@@ -1,0 +1,17 @@
+Instagram Image Inspection - Assignment Answer
+
+Website: https://www.instagram.com/
+
+HTML tag: CSS class: Copy the exact class name shown in Chrome DevTools
+after selecting a post image. Instagram changes its class names, so
+there is no single fixed class that is correct for every post or
+session.
+
+Steps: 1. Open Instagram in Google Chrome. 2. Right-click a post image
+and select Inspect. 3. In DevTools, locate the highlighted element or
+its parent container. 4. Record the exact tag and class shown in the
+live HTML.
+
+Note: The tag displays the image. The image container may be a parent
+element such as
+; record its class from your own Inspect Element view.
